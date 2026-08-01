@@ -83,10 +83,10 @@ The dataset used in this work is hosted separately. Download it from the linked 
 ## Citation
 
 ```bibtex
-@article{kim_datum,
+@article{datum,
   title   = {Multimodal Flow Matching for Laboratory-Aware Harmonization of
              Multi-Source Nanomaterials Synthesis Data Extracted from the Literature},
-  author  = {Kim, Nayeon and Lee, Heeseung and Kim, Daeho and Yoo, Hyuk Jun and Han, Sang Soo},
+  author  = {Nayeon Kim},
   year    = {2026},
   note    = {}
 }
