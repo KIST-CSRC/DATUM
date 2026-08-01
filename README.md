@@ -5,7 +5,7 @@
 DATUM aligns nanomaterial synthesis outcomes reported in the literature with measurements obtained from a target laboratory. The framework treats the Methods section of a paper as a functional proxy for missing experimental metadata, and learns a continuous transformation from reported outcomes to laboratory measured outcomes.
 
 This repository contains the model implementation and the baseline models used for comparison.
-
+<p align="center"> <img src="assets/architecture.png" width="900" alt="DATUM architecture"> </p> <p align="center"> <sub><b>a</b> Bidirectional co-attention between laboratory text and paper text produces a fused text memory. <b>b</b> Cross-attention interprets the fused text memory in the context of the numerical synthesis conditions. <b>c</b> Conditional flow matching transports the reported value toward the measured value.</sub> </p>
 ---
 
 ## Why this exists
