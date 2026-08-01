@@ -6,6 +6,7 @@ DATUM aligns nanomaterial synthesis outcomes reported in the literature with mea
 
 This repository contains the model implementation and the baseline models used for comparison.
 <p align="center"> <img src="assets/structure_DATUM.png" width="900" alt="DATUM architecture"> </p> <p align="center"> <sub><b>a</b> Bidirectional co-attention between laboratory text and paper text produces a fused text memory. <b>b</b> Cross-attention interprets the fused text memory in the context of the numerical synthesis conditions. <b>c</b> Conditional flow matching transports the reported value toward the measured value.</sub> </p>
+
 ---
 
 ## Why this exists
